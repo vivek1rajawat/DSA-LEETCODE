@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -123,5 +124,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0058-length-of-last-word) |
+| [0771-jewels-and-stones](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0771-jewels-and-stones) |
 | [2942-find-words-containing-character](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/2942-find-words-containing-character) |
 <!---LeetCode Topics End-->
