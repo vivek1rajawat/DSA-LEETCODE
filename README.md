@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
