@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0658-find-k-closest-elements](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0876-middle-of-the-linked-list) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
