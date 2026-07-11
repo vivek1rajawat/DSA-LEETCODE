@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0658-find-k-closest-elements](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0912-sort-an-array) |
 | [2942-find-words-containing-character](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
