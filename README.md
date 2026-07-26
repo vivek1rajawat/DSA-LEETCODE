@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
