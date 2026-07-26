@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0912-sort-an-array) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0771-jewels-and-stones) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -128,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0912-sort-an-array) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
