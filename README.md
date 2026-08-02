@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1122-relative-sort-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0720-longest-word-in-dictionary](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0720-longest-word-in-dictionary) |
 | [0912-sort-an-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0720-longest-word-in-dictionary) |
 | [0771-jewels-and-stones](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1122-relative-sort-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1122-relative-sort-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1122-relative-sort-array) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
