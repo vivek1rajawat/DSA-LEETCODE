@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0704-binary-search) |
 | [0720-longest-word-in-dictionary](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0720-longest-word-in-dictionary) |
+| [0739-daily-temperatures](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 ## String
 |  |
@@ -282,4 +284,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
