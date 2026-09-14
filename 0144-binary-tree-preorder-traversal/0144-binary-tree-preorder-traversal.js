@@ -13,12 +13,13 @@
 var preorderTraversal = function(root) {
     let ans = [];
     function traversal(curr){
-        //root - left- right
         if(!curr) return;
         ans.push(curr.val);
         traversal(curr.left);
         traversal(curr.right);
-    }
+
+
+    } 
     traversal(root);
     return ans;
 };
