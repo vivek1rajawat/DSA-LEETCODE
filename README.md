@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0720-longest-word-in-dictionary](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0720-longest-word-in-dictionary) |
 | [0771-jewels-and-stones](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0771-jewels-and-stones) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 ## String
 |  |
@@ -275,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1021-remove-outermost-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
