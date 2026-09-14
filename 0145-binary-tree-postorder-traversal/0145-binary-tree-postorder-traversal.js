@@ -12,7 +12,7 @@
  */
 var postorderTraversal = function(root) {
     let ans = [];
-    function traversal(curr) {
+    function traversal(curr){
         if(!curr) return;
         traversal(curr.left);
         traversal(curr.right);
