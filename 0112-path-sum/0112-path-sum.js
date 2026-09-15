@@ -13,20 +13,11 @@
  */
 var hasPathSum = function(root, targetSum) {
     if(!root) return false;
-    let ans = false;
-    function traverse(curr, currSum){
-        let newSum = currSum + curr.val;
-        if(!curr.left && !curr.right){
-            if(newSum == targetSum){
-                ans = ans || true;
-            }
-        }
-
-
-
-       curr.left && traverse(curr.left, newSum);
-       curr.right && traverse(curr.right, newSum);
+    if(!root.left && !root.right){
+        return root.val == targetSum;
     }
-    traverse(root,0);
-    return ans;
+    let leftSum = hasPathSum(root.left, targetSum - root.val);
+    let rightSum = hasPathSum(root.right, targetSum - root.val);
+
+    return leftSum || rightSum;
 };
