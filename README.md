@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -323,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0994-rotting-oranges) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
