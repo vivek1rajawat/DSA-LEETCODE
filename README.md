@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0391-perfect-rectangle](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0391-perfect-rectangle) |
 | [0474-ones-and-zeroes](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0389-find-the-difference) |
+| [0391-perfect-rectangle](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0391-perfect-rectangle) |
 | [0496-next-greater-element-i](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0720-longest-word-in-dictionary](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0720-longest-word-in-dictionary) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0390-elimination-game](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0390-elimination-game) |
+| [0391-perfect-rectangle](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0391-perfect-rectangle) |
 | [0509-fibonacci-number](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -420,4 +423,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0474-ones-and-zeroes) |
+## Geometry
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0391-perfect-rectangle) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
