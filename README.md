@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Two Pointers
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Memoization
 |  |
 | ------- |
