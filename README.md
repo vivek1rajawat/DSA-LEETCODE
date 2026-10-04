@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0046-permutations) |
+| [0056-merge-intervals](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0078-subsets) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0169-majority-element) |
@@ -459,5 +461,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
