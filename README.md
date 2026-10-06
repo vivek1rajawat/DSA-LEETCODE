@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## String
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0720-longest-word-in-dictionary) |
 | [0771-jewels-and-stones](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0771-jewels-and-stones) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1029-two-city-scheduling](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1029-two-city-scheduling) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1903-largest-odd-number-in-string) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
