@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3457-eat-pizzas](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3457-eat-pizzas) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Two Pointers
@@ -185,11 +186,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3458-select-k-disjoint-special-substrings) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0994-rotting-oranges) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 ## DP on Trees
 |  |
 | ------- |
