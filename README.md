@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
+| [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2942-find-words-containing-character](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3457-eat-pizzas](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3457-eat-pizzas) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1122-relative-sort-array) |
+| [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3458-select-k-disjoint-special-substrings) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1029-two-city-scheduling) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3457-eat-pizzas](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3457-eat-pizzas) |
