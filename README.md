@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1046-last-stone-weight) |
 | [1122-relative-sort-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2908-minimum-sum-of-mountain-triplets-i](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2942-find-words-containing-character](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3457-eat-pizzas](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3457-eat-pizzas) |
