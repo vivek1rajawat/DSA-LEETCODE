@@ -9,6 +9,7 @@ var climbStairs = function (n) {
         return d[n]
     }
     d[n] = climbStairs(n - 1) + climbStairs(n - 2);
+
     return d[n];
 
 
