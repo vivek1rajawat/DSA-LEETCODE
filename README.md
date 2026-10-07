@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0390-elimination-game](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0390-elimination-game) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 ## Divide and Conquer
