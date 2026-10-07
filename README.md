@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1029-two-city-scheduling) |
 | [1122-relative-sort-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3457-eat-pizzas](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3457-eat-pizzas) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1122-relative-sort-array) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1122-relative-sort-array) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3456-find-special-substring-of-length-k](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3456-find-special-substring-of-length-k) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1029-two-city-scheduling) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3457-eat-pizzas](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3457-eat-pizzas) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
