@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
+| [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [2942-find-words-containing-character](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3457-eat-pizzas](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3457-eat-pizzas) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0523-continuous-subarray-sum) |
+| [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3086-minimum-moves-to-pick-k-ones) |
 ## Backtracking
 |  |
