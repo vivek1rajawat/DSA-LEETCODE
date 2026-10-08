@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0704-binary-search) |
 | [0720-longest-word-in-dictionary](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0912-sort-an-array) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
