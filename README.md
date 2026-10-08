@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0268-missing-number) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
