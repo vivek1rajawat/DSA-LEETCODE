@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0474-ones-and-zeroes) |
 ## 0-1 Knapsack
 |  |
@@ -522,4 +526,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0005-longest-palindromic-substring) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
