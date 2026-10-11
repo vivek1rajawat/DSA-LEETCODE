@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0027-remove-element) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0213-house-robber-ii) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0058-length-of-last-word) |
@@ -515,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0455-assign-cookies) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
