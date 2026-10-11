@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0475-heaters) |
 | [0541-reverse-string-ii](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0541-reverse-string-ii) |
+| [0647-palindromic-substrings](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
+| [0647-palindromic-substrings](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3458-select-k-disjoint-special-substrings) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0468-validate-ip-address](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0468-validate-ip-address) |
 | [0474-ones-and-zeroes](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0541-reverse-string-ii](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0541-reverse-string-ii) |
+| [0647-palindromic-substrings](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0720-longest-word-in-dictionary](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0720-longest-word-in-dictionary) |
 | [0771-jewels-and-stones](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
