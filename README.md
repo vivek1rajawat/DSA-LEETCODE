@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
+| [0840-magic-squares-in-grid](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0840-magic-squares-in-grid) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0912-sort-an-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0720-longest-word-in-dictionary](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0720-longest-word-in-dictionary) |
 | [0771-jewels-and-stones](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0771-jewels-and-stones) |
+| [0840-magic-squares-in-grid](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1122-relative-sort-array) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0840-magic-squares-in-grid](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0840-magic-squares-in-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Binary Search
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0994-rotting-oranges) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 ## DP on Trees
