@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3917-count-indices-with-opposite-parity](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3917-count-indices-with-opposite-parity) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3919-minimum-cost-to-move-between-indices) |
 ## Two Pointers
 |  |
 | ------- |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3457-eat-pizzas](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3457-eat-pizzas) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3919-minimum-cost-to-move-between-indices) |
 ## Trie
 |  |
 | ------- |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3086-minimum-moves-to-pick-k-ones) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3919-minimum-cost-to-move-between-indices) |
 ## Backtracking
 |  |
 | ------- |
