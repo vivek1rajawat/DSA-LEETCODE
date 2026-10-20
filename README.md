@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -532,4 +534,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0322-coin-change) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
