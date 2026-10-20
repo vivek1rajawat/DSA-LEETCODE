@@ -563,4 +563,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
