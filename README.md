@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0720-longest-word-in-dictionary](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0720-longest-word-in-dictionary) |
 | [0771-jewels-and-stones](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0771-jewels-and-stones) |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0216-combination-sum-iii) |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0842-split-array-into-fibonacci-sequence) |
 ## Queue
 |  |
 | ------- |
