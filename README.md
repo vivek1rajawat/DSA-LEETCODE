@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3917-count-indices-with-opposite-parity](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3917-count-indices-with-opposite-parity) |
 ## Two Pointers
 |  |
 | ------- |
