@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0840-magic-squares-in-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -552,4 +553,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/0841-keys-and-rooms) |
+## Number Theory
+|  |
+| ------- |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/vivek1rajawat/DSA-LEETCODE/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 <!---LeetCode Topics End-->
